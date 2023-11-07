@@ -13,8 +13,11 @@ See example: graph/star_hyper.edgelist.
 # Output:
 
 NumberOfNodes NumberOfDimension
+
 nodeID1 dim1 dim2 ...
+
 nodeID2 dim1 dim2 ...
+
 ...
 
 See example: emb/star_hyper.emb.
