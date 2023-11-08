@@ -11,22 +11,21 @@ python src/main.py --input graph/star_hyper.edgelist --num-walks 100 --walk-leng
 # Data format:
 ```
 edgeID nodeID1 nodeID2 ...
+...
 ```
 See example: graph/star_hyper.edgelist.
 
 # Output:
 ```
 NumberOfNodes NumberOfDimension
-
 nodeID1 dim1 dim2 ...
-
 nodeID2 dim1 dim2 ...
-
 ...
 ```
 See example: emb/star_hyper.emb.
 
 # Citation
+```
 @misc{liu2023hypers2v,\b
       title={HyperS2V: A Framework for Structural Representation of Nodes in Hyper Networks}, 
       author={Shu Liu and Cameron Lai and Fujio Toriumi},
@@ -35,3 +34,4 @@ See example: emb/star_hyper.emb.
       archivePrefix={arXiv},
       primaryClass={cs.SI}
 }
+```
