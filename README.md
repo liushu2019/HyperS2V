@@ -26,7 +26,7 @@ See example: emb/star_hyper.emb.
 
 # Citation
 ```
-@misc{liu2023hypers2v,\b
+@misc{liu2023hypers2v,
       title={HyperS2V: A Framework for Structural Representation of Nodes in Hyper Networks}, 
       author={Shu Liu and Cameron Lai and Fujio Toriumi},
       year={2023},
